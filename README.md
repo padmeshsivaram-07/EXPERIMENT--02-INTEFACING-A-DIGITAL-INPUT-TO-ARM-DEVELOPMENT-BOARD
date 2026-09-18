@@ -88,7 +88,7 @@ void push_button(){
 
 
 ## Output  :
-<img width="1600" height="950" alt="654763334-e68292fb-bd47-4cc3-8199-8e2bf79d2816" src="https://github.com/user-attachments/assets/34c31348-98fe-4532-b314-2ce6b6c7d142" />
+<img width="1600" height="950" alt="654763334-e68292fb-bd47-4cc3-8199-8e2bf79d2816" src="https://github.com/user-attachments/assets/34c31348-98fe-4532-b314-2ce6b6c7d142" />.
 
  
 ## layout of the circuit 
