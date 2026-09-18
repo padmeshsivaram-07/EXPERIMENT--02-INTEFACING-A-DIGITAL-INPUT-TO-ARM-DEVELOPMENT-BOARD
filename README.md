@@ -51,12 +51,17 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## STM 32 CUBE PROGRAM :
+<img width="1600" height="950" alt="654763269-2434aec4-8e05-4761-92b1-24f4b6c50959" src="https://github.com/user-attachments/assets/2b6ab2e0-c5eb-4c1d-bdfd-bac26f55f172" />
 
 
 
 ## Output  :
+<img width="1600" height="950" alt="654763334-e68292fb-bd47-4cc3-8199-8e2bf79d2816" src="https://github.com/user-attachments/assets/34c31348-98fe-4532-b314-2ce6b6c7d142" />
+
  
 ## layout of the circuit 
+<img width="1011" height="711" alt="654763407-42386981-4aa7-4d49-827c-f559a7f7c568" src="https://github.com/user-attachments/assets/dc2add01-9afa-48d5-8580-a8758e56045a" />
+
  
  
 ## Result :
